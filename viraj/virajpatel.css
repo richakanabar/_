@@ -1,0 +1,284 @@
+body{
+    margin: 0;
+    font-family: arial,sans-serif;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    background-color: #f0f0f0;
+    padding-left:80px ;
+    padding-right: 80px;
+    font-size: 17px;
+    line-height: 15px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+ul,li,a{
+    list-style: none;
+    display: inline;
+     margin: 25px ;
+     margin-top: 17px;
+     text-decoration:none;
+     color: black;
+}
+
+.box{
+    height: 210px;
+    width: 90%;
+    background-color: #f0f0f0;
+    margin-top: 50px;
+   margin-left: 70px;
+   text-align: center;
+   line-height: 210px;
+   font-size: 18px;
+}
+.content{
+    display: flex;
+    gap: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+.slider{
+    height: 250px;
+    width: 90%;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin-left: 70px;
+    text-align: center;
+    margin-top: 50px;
+    line-height: 250px;
+    font-size: 18px;
+  position: relative;
+}
+
+.r1{
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: 623px;
+    margin-top: -40px;
+}
+
+.r2{
+  
+    height: 10px;
+    width: 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 639px;
+    margin-top: -10px;
+}
+
+.r3{
+    height: 10px;
+    width: 10px;
+    background-color:white;
+    border-radius: 10px;
+    margin-left: 655px;
+    margin-top: -10px;
+}
+
+.r4{
+    height: 10px;
+    width: 10px;
+    background-color:white;
+    border-radius: 10px;
+    margin-left: 671px;
+    margin-top: -10px;
+}
+
+.box3{
+    height: 270px;
+    width: 1700px;
+    background-color: #f0f0f0;
+    margin-top: 70px;
+    margin-left: 80px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 250px;
+  
+}
+
+.content0{
+    display: flex;
+    gap: 5px;
+}
+
+.contant3{
+    margin-top: 70px;
+    /* margin-left: 70px; */
+    padding-right: 90px;
+    padding-left: 90px;
+    font-size: 17px;
+}
+
+.box4{
+    height: 280px;
+    width: 1270px;
+    background-color: #f0f0f0;
+    margin-top: 80px;
+    margin-left: 90px;
+}
+
+.con4{
+    padding-left: 60px;
+    padding-top: 100px;
+    font-size: 11px;
+}
+
+.con5{
+    padding-left: 50px;
+}
+
+.box5{
+    height: 195px;
+    width: 900px;
+    background-color: burlywood;
+    margin-left: 320px;
+    margin-top: -217px;
+    border-radius: 15px;
+}
+
+.pr{
+margin-left: 130px;
+padding-top: 50px;
+}
+
+.sq1{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:-40px;
+    margin-top: 10px;
+}
+.sq2{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:-40px;
+    margin-top: 10px;
+}
+
+.sq3{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:10px;
+    margin-top: -80px;
+}
+
+.sq4{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:10px;
+    margin-top: 10px;
+}
+
+.sq5{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:60px;
+    margin-top: -80px;
+}
+
+.sq6{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:60px;
+    margin-top: 10px;
+}
+
+.about{
+    margin-left: 395px;
+    margin-top: -130px;
+    font-size: 15px;
+}
+
+.fam{
+    margin-left: 710px;
+    margin-top:-107px;
+    }
+    
+.sq7{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:-33px;
+    margin-top: 10px;
+}
+    
+.sq8{
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    margin-left:-33px;
+    margin-top: 10px;
+}
+    
+.sq9{
+        height: 35px;
+        width: 35px;
+        background-color: white;
+        margin-left:16px;
+        margin-top: -80px;
+}
+    
+.sq10{
+        height: 35px;
+        width: 35px;
+        background-color: white;
+        margin-left:16px;
+        margin-top: 10px;
+}
+    
+.sq11{
+        height: 35px;
+        width: 35px;
+        background-color: white;
+        margin-left:64px;
+        margin-top: -80px;
+}
+    
+.sq12{
+        height: 35px;
+        width: 35px;
+        background-color: white;
+        margin-left:64px;
+        margin-top: 10px;
+}
+    .ig{
+        height: 120px;
+        width:120px;
+        margin-bottom: -118px;
+        margin-left: 46px;
+    }
+    .log{
+        height: 12px;
+        width:12px;
+    }
+    .insta{
+       height: 12px;
+       width:12px;
+  }
+    .lin{
+        height: 12px;
+      width:12px;
+  }
+  .vj{
+    height: 50px;
+    width:50px;
+    margin-top: -4px;
+  }
+  .pp{
+    margin-left: 64px;
+    margin-top: -31px;
+  }
